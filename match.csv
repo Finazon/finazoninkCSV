@@ -1,4 +1,44 @@
-Winner 1,Winner 2,Loser 1,Loser 2,Tournament,BoX,G1,G2,G3,G4,G5,G6,G7,G8,G9,ScoreL
-Billy,Bob,Joe,Steve,BFSTest,5,1,1,-1,1,0,0,0,0,0,1
-Billy,Bob,Joe,Steve,BFSTest,5,1,-1,-1,1,1,0,0,0,0,2
-Joe,Steve,Billy,Bob,BFSTest,2,1,1,0,0,0,0,0,0,0,0
+Winner 1,Winner 2,Loser 1,Loser 2,Tournament,BoX,G1,G2,G3,G4,G5,G6,G7,G8,G9
+term,NA,Anti,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+dante,NA,Svenja,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+term,NA,Aleshiro,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
+dante,NA,RemixedFern,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+Anti,NA,RemixedFern,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
+Svenja,NA,Aleshiro,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
+Svenja,NA,Anti,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+dante,NA,term,NA,BFS1,5,1,1,-1,-1,1,0,0,0,0
+Svenja,NA,term,NA,BFS1,5,1,-1,1,-1,1,0,0,0,0
+Svenja,NA,dante,NA,BFS1,5,1,-1,-1,1,1,0,0,0,0
+dante,NA,Svenja,NA,BFS1,5,1,-1,1,1,0,0,0,0,0
+Raphy..,NA,CXASE,NA,BFS2,3,1,-1,1,0,0,0,0,0,0
+mango fv,NA,Raphy..,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+mango fv,NA,CXASE,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+zx.,NA,Anti,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Frook,NA,Anti,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Frook,NA,zx.,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Cafy,NA,Yellow,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Yellow,NA,jaded,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Cafy,NA,jaded,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Nof24,NA,mad ferret,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+BRUTUS,NA,Tuna,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,mad ferret,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Nof24,NA,BRUTUS,NA,BFS2,3,-1,1,1,0,0,0,0,0,0
+BRUTUS,NA,mad ferret,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Nof24,NA,Tuna,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+dylan,NA,NomNom,NA,BFS2,3,1,-1,1,0,0,0,0,0,0
+EebySleeby,NA,Galaxy_Nightly,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+dylan,NA,EebySleeby,NA,BFS2,3,-1,1,1,0,0,0,0,0,0
+NomNom,NA,Galaxy_Nightly,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+dylan,NA,Galaxy_Nightly,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+NomNom,NA,EebySleeby,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Galaxy_Nightly,NA,BFS2,5,1,1,1,0,0,0,0,0,0
+Anti,NA,Tuna,NA,BFS2,5,1,-1,-1,1,1,0,0,0,0
+BRUTUS,NA,Yellow,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+NomNom,NA,zx.,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+mango fv,NA,BRUTUS,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+Nof24,NA,dylan,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+NomNom,NA,Frook,NA,BFS2,3,-1,1,1,0,0,0,0,0,0
+Cafy,NA,Raphy..,NA,BFS2,3,1,1,0,0,0,0,0,0,0
+mango fv,NA,Nof24,NA,BFS2,5,-1,1,1,1,0,0,0,0,0
+NomNom,NA,Cafy,NA,BFS2,5,1,-1,1,1,0,0,0,0,0
+NomNom,NA,mango fv,NA,BFS2,5,1,-1,1,1,0,0,0,0,0
