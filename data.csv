@@ -1,5 +1,5 @@
 ID,Rank (Temp),User,Rank,Score,SS,SSW,Place,Set Win Rate,Game Win Rate,Barnacle,Bluefin,Brinewater,Crableg,Eeltail,Flunder,Haggle,Hammerhead,Humpback,Inkblot,Lemuria,Mahi,Mako,Manta,Marlin,Mincemeat,Museum,Robo,Scorch,Shipshape,Sturgeon,Umami,Undertow,Urchin,Wahoo,Color,Color_Alt
-1,1,Billy,1,55.625,0,0,62.5,100,75,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,NaN,NaN,100,NaN,0,NaN,NaN,NaN,9ee1f5,7cf5c7
-2,1,Bob,1,55.625,0,0,62.5,100,75,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,NaN,NaN,100,NaN,0,NaN,NaN,NaN,9ee1f5,7cf5c7
-3,3,Joe,3,42,100,-5,50,0,25,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,100,NaN,NaN,NaN,f18080 ,b94848 
+3,3,Joe,1,42,100,-5,50,0,25,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,100,NaN,NaN,NaN,f18080 ,b94848 
+2,1,Bob,2,55.625,0,0,62.5,100,75,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,NaN,NaN,100,NaN,0,NaN,NaN,NaN,9ee1f5,7cf5c7
 4,3,Steve,3,42,100,-5,50,0,25,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0,NaN,NaN,0,NaN,100,NaN,NaN,NaN,F1E980,EAEAEA
+1,1,Billy,4,55.625,0,0,62.5,100,75,100,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,100,NaN,NaN,100,NaN,0,NaN,NaN,NaN,9ee1f5,7cf5c7
