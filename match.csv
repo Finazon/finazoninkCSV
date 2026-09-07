@@ -118,3 +118,73 @@ Kevio,NA,Zander,NA,BFS5,3,1,1,0,0,0,0,0,0,0
 prosper,NA,Different,NA,BFS5,5,1,-1,1,1,0,0,0,0,0
 Kevio,NA,Different,NA,BFS5,5,-1,1,1,1,0,0,0,0,0
 prosper,NA,Kevio,NA,BFS5,5,1,1,1,0,0,0,0,0,0
+BRUTUS,Meow Meow,AnekinRed,Luz,BFS6,3,1,1,0,0,0,0,0,0,0
+mimiko,gie,shuli,Rampage,BFS6,3,1,1,0,0,0,0,0,0,0
+yannick,nami,BRUTUS,Meow Meow,BFS6,3,1,1,0,0,0,0,0,0,0
+zoeee,Shark,Finazon,term,BFS6,3,1,1,0,0,0,0,0,0,0
+Nof24,josh,mimiko,gie,BFS6,3,1,1,0,0,0,0,0,0,0
+Cafy,Alice,RenOrSumthn,brookocet,BFS6,3,1,1,0,0,0,0,0,0,0
+Finazon,term,AnekinRed,Luz,BFS6,3,1,1,0,0,0,0,0,0,0
+shuli,Rampage,RenOrSumthn,brookocet,BFS6,3,1,1,0,0,0,0,0,0,0
+Finazon,term,BRUTUS,Meow Meow,BFS6,3,1,1,0,0,0,0,0,0,0
+mimiko,gie,shuli,Rampage,BFS6,3,1,-1,1,0,0,0,0,0,0
+yannick,nami,zoeee,Shark,BFS6,5,-1,1,1,1,0,0,0,0,0
+Nof24,josh,Cafy,Alice,BFS6,5,1,-1,1,1,0,0,0,0,0
+Finazon,term,Cafy,Alice,BFS6,3,-1,1,1,0,0,0,0,0,0
+zoeee,Shark,mimiko,gie,BFS6,3,-1,1,1,0,0,0,0,0,0
+Finazon,term,zoeee,Shark,BFS6,5,1,1,1,0,0,0,0,0,0
+yannick,nami,Nof24,josh,BFS6,5,1,1,1,0,0,0,0,0,0
+Nof24,josh,Finazon,term,BFS6,5,1,-1,1,1,0,0,0,0,0
+yannick,nami,Nof24,josh,BFS6,5,1,1,1,0,0,0,0,0,0
+Lappy,NA,TJ,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Leon,NA,Stellar,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+luizent,NA,Corgan,NA,BFS7,3,-1,1,1,0,0,0,0,0,0
+Fake Name,NA,Mixed_soup,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+term,NA,DrewStarZ,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+--- 1,NA,Oblivion,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Stellar,NA,Corgan,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Oblivion,NA,DrewStarZ,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Leon,NA,luizent,NA,BFS7,3,-1,1,1,0,0,0,0,0,0
+Koooo,NA,Fake Name,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+--- 1,NA,term,NA,BFS7,3,1,-1,1,0,0,0,0,0,0
+luizent,NA,TJ,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+term,NA,Mixed_soup,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Oblivion,NA,Fake Name,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+luizent,NA,Stellar,NA,BFS7,3,1,-1,1,0,0,0,0,0,0
+term,NA,Oblivion,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Leon,NA,Lappy,NA,BFS7,5,1,1,1,0,0,0,0,0,0
+--- 1,NA,Koooo,NA,BFS7,5,-1,1,1,1,0,0,0,0,0
+Koooo,NA,luizent,NA,BFS7,3,-1,1,1,0,0,0,0,0,0
+term,NA,Lappy,NA,BFS7,3,1,-1,1,0,0,0,0,0,0
+term,NA,Koooo,NA,BFS7,3,1,1,0,0,0,0,0,0,0
+Leon,NA,--- 1,NA,BFS7,5,1,1,1,0,0,0,0,0,0
+--- 1,NA,term,NA,BFS7,5,1,-1,-1,1,1,0,0,0,0
+Leon,NA,--- 1,NA,BFS7,5,1,1,1,0,0,0,0,0,0
+Ski6,NA,Steam64137,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+nishi,NA,Ski6,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+--- 1,NA,Different,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+tako,NA,Tuna,NA,BFS8,3,1,-1,1,0,0,0,0,0,0
+luizent,NA,term,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+Different,NA,Steam64137,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+Different,NA,Ski6,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+term,NA,Tuna,NA,BFS8,3,-1,1,1,0,0,0,0,0,0
+nishi,NA,--- 1,NA,BFS8,5,-1,1,1,1,0,0,0,0,0
+tako,NA,luizent,NA,BFS8,5,1,-1,1,1,0,0,0,0,0
+Different,NA,luizent,NA,BFS8,3,1,-1,1,0,0,0,0,0,0
+term,NA,--- 1,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+term,NA,Different,NA,BFS8,3,1,1,0,0,0,0,0,0,0
+nishi,NA,tako,NA,BFS8,5,1,1,-1,1,0,0,0,0,0
+tako,NA,term,NA,BFS8,5,1,-1,-1,1,1,0,0,0,0
+nishi,NA,tako,NA,BFS8,5,1,-1,-1,1,1,0,0,0,0
+Flowery,NA,autumn,NA,BFS9,3,1,1,0,0,0,0,0,0,0
+Finazon,NA,Samba4k,NA,BFS9,3,1,-1,1,0,0,0,0,0,0
+Cato Drew,NA,Bman,NA,BFS9,3,1,1,0,0,0,0,0,0,0
+Samba4k,NA,Bman,NA,BFS9,3,1,1,0,0,0,0,0,0,0
+term,NA,Flowery,NA,BFS9,5,1,-1,1,1,0,0,0,0,0
+Cato Drew,NA,Finazon,NA,BFS9,5,1,1,1,0,0,0,0,0,0
+Finazon,NA,autumn,NA,BFS9,3,1,1,0,0,0,0,0,0,0
+Samba4k,NA,Flowery,NA,BFS9,3,1,1,0,0,0,0,0,0,0
+Samba4k,NA,Finazon,NA,BFS9,3,1,-1,1,0,0,0,0,0,0
+term,NA,Cato Drew,NA,BFS9,5,1,1,-1,1,0,0,0,0,0
+Cato Drew,NA,Samba4k,NA,BFS9,5,1,-1,1,1,0,0,0,0,0
+term,NA,Cato Drew,NA,BFS9,5,1,1,1,0,0,0,0,0,0
