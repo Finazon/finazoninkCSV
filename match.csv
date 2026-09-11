@@ -254,3 +254,198 @@ yoshii,Tacos!,Atlas,Chamo,BFS11,5,1,-1,1,1,0,0,0,0,0
 Glash,eliasmo,Jasmine,Zoyo,BFS11,5,1,1,-1,-1,1,0,0,0,0
 Jasmine,Zoyo,Atlas,Chamo,BFS11,5,1,1,-1,1,0,0,0,0,0
 Glash,eliasmo,yoshii,Tacos!,BFS11,5,1,1,-1,-1,1,0,0,0,0
+yoshii,NA,LforLeo,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Nathpro,NA,SquibKid,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+SquibKid,NA,LforLeo,NA,BFS12,3,-1,1,1,0,0,0,0,0,0
+yoshii,NA,Nathpro,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Nathpro,NA,LforLeo,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+yoshii,NA,SquibKid,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+santo,NA,PocketAsparagus,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Samba4k,NA,Kanga,NA,BFS12,3,1,-1,1,0,0,0,0,0,0
+PocketAsparagus,NA,Kanga,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+santo,NA,Samba4k,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+PocketAsparagus,NA,Samba4k,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+santo,NA,Kanga,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+term,NA,Obs,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Zyler,NA,Gibbons,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Zyler,NA,Obs,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+term,NA,Gibbons,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Gibbons,NA,Obs,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+term,NA,Zyler,NA,BFS12,3,-1,1,1,0,0,0,0,0,0
+spinel,NA,Zelda1986,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Different,NA,Fake Name,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Different,NA,Zelda1986,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+spinel,NA,Fake Name,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Fake Name,NA,Zelda1986,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Different,NA,spinel,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+SquibKid,NA,Zelda1986,NA,BFS12,3,1,-1,1,0,0,0,0,0,0
+Fake Name,NA,LforLeo,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Obs,NA,Samba4k,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Kanga,NA,Gibbons,NA,BFS12,3,-1,1,1,0,0,0,0,0,0
+SquibKid,NA,Fake Name,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Kanga,NA,Obs,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Obs,NA,Fake Name,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Kanga,NA,SquibKid,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+yoshii,NA,spinel,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Different,NA,Nathpro,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+santo,NA,Zyler,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+term,NA,PocketAsparagus,NA,BFS12,3,1,-1,1,0,0,0,0,0,0
+yoshii,NA,Different,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+term,NA,Santo,NA,BFS12,5,1,1,-1,1,0,0,0,0,0
+Different,NA,Santo,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+yoshii,NA,term,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Samba4k,NA,Paper,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+yoshii,NA,Samba4k,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+yoshii,NA,Paper,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Mixed_soup,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+dante,NA,Mixed_soup,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+dante,NA,Tuna,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Raphy..,NA,Bakuma,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Bakuma,NA,term,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+term,NA,Bakuma,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Tata357 :3,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Yuyu,NA,Tata357 :3,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Zelda1986,NA,Tata357 :3,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Yuyu,NA,Zelda1986,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Zelda1986,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Yuyu,NA,BFS12,3,-1,1,1,0,0,0,0,0,0
+Zelda1986,NA,Tata357 :3,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Paper,NA,Zelda1986,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Bakuma,NA,Mixed_soup,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Mixed_soup,NA,Zelda1986,NA,BFS12,5,1,1,-1,1,0,0,0,0,0
+Paper,NA,Bakuma,NA,BFS12,5,1,1,-1,-1,1,0,0,0,0
+yoshii,NA,Yuyu,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Samba4k,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+dante,NA,Raphy..,NA,BFS12,3,-1,1,1,0,0,0,0,0,0
+term,NA,Tuna,NA,BFS12,3,1,1,0,0,0,0,0,0,0
+yoshii,NA,Bolt,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+dante,NA,term,NA,BFS12,5,1,1,1,0,0,0,0,0,0
+Bolt,NA,term,NA,BFS12,5,-1,1,1,1,0,0,0,0,0
+dante,NA,yoshii,NA,BFS12,5,1,-1,-1,1,1,0,0,0,0
+seb,NA,pecan4pi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+kypy,NA,Rocko,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+kypy,NA,pecan4pi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+seb,NA,Rocko,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+Rocko,NA,pecan4pi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+seb,NA,kypy,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+dante,NA,meigi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+PayUrTaxes,NA,PocketAsparagus,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+PayUrTaxes,NA,meigi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+dante,NA,PocketAsparagus,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+meigi,NA,PocketAsparagus,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+dante,NA,PayUrTaxes,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+nishi,NA,Saturn <3,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Cato Drew,NA,Yuyu,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Yuyu,NA,Saturn <3,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Cato Drew,NA,nishi,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Cato Drew,NA,Saturn <3,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+nishi,NA,Yuyu,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Colet,NA,term,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Coolbe,NA,Tuna,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Coolbe,NA,Colet,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+term,NA,Tuna,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Colet,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Coolbe,NA,term,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Different,NA,Jaiden,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+santo,NA,houdini,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+santo,NA,Jaiden,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+houdini,NA,Different,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+houdini,NA,Jaiden,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+santo,NA,Different,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Jaiden,NA,pecan4pi,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+Tuna,NA,PocketAsparagus,NA,BFS13,5,1,-1,1,1,0,0,0,0,0
+PocketAsparagus,NA,pecan4pi,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+Tuna,NA,Jaiden,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+Different,NA,Saturn <3,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+Different,NA,Rocko,NA,BFS13,5,-1,1,1,1,0,0,0,0,0
+term,NA,meigi,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+Rocko,NA,meigi,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+Different,NA,term,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+houdini,NA,Colet,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+kypy,NA,houdini,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+nishi,NA,PayUrTaxes,NA,BFS13,5,1,-1,-1,1,1,0,0,0,0
+houdini,NA,PayUrTaxes,NA,BFS13,5,-1,1,1,1,0,0,0,0,0
+kypy,NA,nishi,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+santo,NA,Coolbe,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+santo,NA,seb,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+dante,NA,Cato Drew,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+seb,NA,Cato Drew,NA,BFS13,5,1,1,-1,1,0,0,0,0,0
+santo,NA,dante,NA,BFS13,5,1,-1,-1,1,1,0,0,0,0
+meigi,NA,PocketAsparagus,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Rocko,NA,meigi,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+PocketAsparagus,NA,meigi,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+Samba4k,NA,Einhorn,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Raphy..,NA,Samba4k,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Raphy..,NA,Einhorn,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Saturn <3,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+bishop,NA,Saturn <3,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+bishop,NA,Tuna,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Einhorn,NA,Saturn <3,NA,BFS14,5,1,-1,-1,1,1,0,0,0,0
+PocketAsparagus,NA,Saturn <3,NA,BFS14,5,1,1,1,0,0,0,0,0,0
+Rocko,NA,Samba4k,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+bishop,NA,Tuna,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+meigi,NA,Rocko,NA,BFS14,5,-1,1,1,1,0,0,0,0,0
+bishop,NA,Raphy..,NA,BFS14,5,1,1,1,0,0,0,0,0,0
+Raphy..,NA,Rocko,NA,BFS14,5,1,1,-1,1,0,0,0,0,0
+bishop,NA,meigi,NA,BFS14,5,-1,1,1,1,0,0,0,0,0
+seb,NA,Toaster,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+HYPERFRESH,NA,Finazon,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+meigi,NA,Zerkyy_aim,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Raphy..,NA,Obs,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Finazon,NA,Toaster,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Zerkyy_aim,NA,Obs,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+HYPERFRESH,NA,seb,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+Raphy..,NA,meigi,NA,BFS14,3,1,-1,1,0,0,0,0,0,0
+meigi,NA,Finazon,NA,BFS14,3,-1,1,1,0,0,0,0,0,0
+seb,NA,Zerkyy_aim,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+seb,NA,meigi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+Raphy..,NA,HYPERFRESH,NA,BFS14,5,-1,-1,1,1,1,0,0,0,0
+seb,NA,HYPERFRESH,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+seb,NA,Raphy..,NA,BFS14,5,1,1,1,0,0,0,0,0,0
+Raphy..,NA,seb,NA,BFS14,5,1,1,-1,-1,1,0,0,0,0
+PocketAsparagus,NA,Raffale,NA,BFS15,3,1,1,0,0,0,0,0,0,0
+boby,NA,PocketAsparagus,NA,BFS15,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Finazon,NA,BFS15,3,1,-1,1,0,0,0,0,0,0
+Finazon,NA,Raffale,NA,BFS15,3,1,1,0,0,0,0,0,0,0
+PocketAsparagus,NA,Finazon,NA,BFS15,3,1,1,0,0,0,0,0,0,0
+boby,NA,Tuna,NA,BFS15,5,1,1,-1,1,0,0,0,0,0
+PocketAsparagus,NA,Tuna,NA,BFS15,3,1,1,0,0,0,0,0,0,0
+boby,NA,PocketAsparagus,NA,BFS15,3,1,-1,1,1,0,0,0,0,0
+wyl_,NA,Fluffy,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Tuna,NA,Yuyu,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Fluffy,NA,Yuyu,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+wyl_,NA,Tuna,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Fluffy,NA,Tuna,NA,BFS16,3,-1,1,1,0,0,0,0,0,0
+wyl_,NA,Yuyu,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Ballistic,NA,Rook,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+meigi,NA,Fake Name,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+meigi,NA,Ballistic,NA,BFS16,3,1,-1,1,0,0,0,0,0,0
+Rook,NA,Fake Name,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Ballistic,NA,Fake Name,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Rook,NA,meigi,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Flowery,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Cato Drew,NA,NodoDodo,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Cato Drew,NA,Flowery,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,NodoDodo,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Flowery,NA,NodoDodo,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Cato Drew,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+NodoDodo,NA,Tuna,NA,BFS16,5,1,1,1,0,0,0,0,0,0
+meigi,NA,Flowery,NA,BFS16,5,1,1,-1,-1,1,0,0,0,0
+Flowery,NA,Tuna,NA,BFS16,5,1,1,-1,-1,1,0,0,0,0
+meigi,NA,NodoDodo,NA,BFS16,5,1,-1,1,1,0,0,0,0,0
+Rook,NA,Fluffy,NA,BFS16,3,1,1,0,0,0,0,0,0,0
+Bolt,NA,Cato Drew,NA,BFS16,3,-1,1,1,0,0,0,0,0,0
+Rook,NA,wyl_,NA,BFS16,5,-1,1,1,1,0,0,0,0,0
+Ballistic,NA,Bolt,NA,BFS16,5,1,-1,1,1,0,0,0,0,0
+Bolt,NA,wyl_,NA,BFS16,5,1,1,1,0,0,0,0,0,0
+Rook,NA,Ballistic,NA,BFS16,5,-1,1,1,1,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
+,NA,,NA,BFS16,3,0,0,0,0,0,0,0,0,0
