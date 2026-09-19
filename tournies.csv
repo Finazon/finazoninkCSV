@@ -1,4 +1,4 @@
-ID,Series,Number,IsSub,Subtitle,1st,2nd,3rd,Players,Date,SendouID,Dsec,Color
+ID,Series,Number,IsSub,Subtitle,1st,2nd,3rd,Teams,Date,SendouID,Dsec,Color
 1,BFS,1,FALSE,NA,dante,svenja,term,6,"April 11, 2025",1420,"There was no gimmick, just a normal 1v1.",9EE1F5
 2,BFS,2,TRUE,Old in the New,NomNom,mango fv,Cafy,17,"April 19, 2025",1507,This tournament only allowed weapons that had a main/sub/special combo that could exist in Splatoon 2.,9EE1F5
 3,BFS,3,TRUE,Seeing Red,Daki,term,Arc,19,"April 27, 2025",1554,This tournament only allowd weapons that are red.,9EE1F5
@@ -20,6 +20,7 @@ ID,Series,Number,IsSub,Subtitle,1st,2nd,3rd,Players,Date,SendouID,Dsec,Color
 19,BFS,19,TRUE,Shifting Tides,term,Arc,dante,12,"September 7, 2025",2500,"Players could only use weapons that got changed in Splatoon 3 balance patch v10.1.0. This does not include weapons that had a points for special change, but does include weapons that had their specials get buffed/nerfed. During this tournament it was found that term was a Sorella Brella addict, however that was already pretty obvious.",9EE1F5
 20,BFS,20,TRUE,Ratting Around,dante,Tuna,term,6,"September 21, 2025",2548,"rat is love, rat is life. one must rat until one can rat no more. rat. perchance.",9EE1F5
 21,BFS,21,TRUE,Whats 9+10?,dante,Candy,pierrot,4,"September 28, 2025",2602,This tournament combined the gimmicks and legalized all weapons from BFS 9 and BFS 10 (A New Era and I'm Flying!).,9EE1F5
-22,BFS,22,TRUE,So Far Away,suckduq,pierrot,Paper,7,"October 5, 2025",2647,Only long ranged weapons were allowed in this bracket. I think they liked chargers. (jk most people used jet squelcher).,9EE1F5
+22,BFS,22,TRUE,So Far Away,?????,pierrot,Paper,7,"October 5, 2025",2647,Only long ranged weapons were allowed in this bracket. I think they liked chargers. (jk most people used jet squelcher).,9EE1F5
 23,BFS,23,TRUE,'Overpowered',Tini,dante,booga,14,"December 30, 2025",3000,This tournament is a meta player's ideal world. Only strong meta weapons were allowed.,9EE1F5
-24,BFS,24,TRUE,Double or Nothing,Bryan & ayden,Splatkid9 & Neo,Bau & Paper,11,"September 10, 2026",4470,This tournament required teams to use the same exact main weapon as each other. Whether they used the same or different kits was up to them.,9EE1F5
+24,BFS,24,TRUE,Double or Nothing,bryan & ayden,splatkid9 & Neo,Bau & Paper,11,"September 10, 2026",4470,This tournament required teams to use the same exact main weapon as each other. Whether they used the same or different kits was up to them.,9EE1F5
+25,BFS,25,TRUE,Old and the New,"Ez, yoshii, and ?????",Megu & Dynaman,noctura & ????,6,09/18/26,4505,This tournament forced teams to have one player use a weapon from Season 3 and prior and the other from Season 4 onwards.,9EE1F5
