@@ -556,3 +556,19 @@ ahiru,yoshii,Megu,Dynaman,BFS25,5,-1,1,-1,1,1,0,0,0,0
 Megu,Dynaman,noctura,Castella,BFS25,5,1,1,-1,-1,1,0,0,0,0
 Megu,Dynaman,ahiru,Ez,BFS25,5,1,1,-1,-1,1,0,0,0,0
 ahiru,Ez,Megu,Dynaman,BFS25,5,-1,1,1,1,0,0,0,0,0
+deco,GoldenLocks,hiro,bruce GAYne,BFS26,3,-1,1,1,0,0,0,0,0,0
+Tini,Bonk,deco,GoldenLocks,BFS26,3,1,1,0,0,0,0,0,0,0
+Tuna,zoeee,Finazon,term,BFS26,3,-1,1,1,0,0,0,0,0,0
+hydrabubu,ahiru,h,froyo,BFS26,3,1,1,0,0,0,0,0,0,0
+roxymoron,CommaTOSU,Vessel,sevenrei,BFS26,3,1,1,0,0,0,0,0,0,0
+Finazon,term,hiro,bruce GAYne,BFS26,3,1,1,0,0,0,0,0,0,0
+Finazon,term,deco,GoldenLocks,BFS26,3,1,1,0,0,0,0,0,0,0
+h,froyo,Vessel,sevenrei,BFS26,3,-1,1,1,0,0,0,0,0,0
+Tini,Bonk,Tuna,zoeee,BFS26,5,1,1,-1,1,0,0,0,0,0
+roxymoron,CommaTOSU,hydrabubu,ahiru,BFS26,5,1,-1,1,1,0,0,0,0,0
+Finazon,term,hydrabubu,ahiru,BFS26,3,1,1,0,0,0,0,0,0,0
+Tuna,zoeee,h,froyo,BFS26,3,1,1,0,0,0,0,0,0,0
+Tuna,zoeee,Finazon,term,BFS26,3,1,1,0,0,0,0,0,0,0
+Tini,Bonk,roxymoron,CommaTOSU,BFS26,5,1,1,1,0,0,0,0,0,0
+Tuna,zoeee,roxymoron,CommaTOSU,BFS26,5,1,1,1,0,0,0,0,0,0
+Tini,Bonk,Tuna,zoeee,BFS26,5,1,1,1,0,0,0,0,0,0
