@@ -1,15 +1,15 @@
 Winner 1,Winner 2,Loser 1,Loser 2,Tournament,BoX,G1,G2,G3,G4,G5,G6,G7,G8,G9
 term,NA,Anti,NA,BFS1,3,1,1,0,0,0,0,0,0,0
-dante,NA,Svenja,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+julius,NA,Svenja,NA,BFS1,3,1,1,0,0,0,0,0,0,0
 term,NA,Aleshiro,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
-dante,NA,RemixedFern,NA,BFS1,3,1,1,0,0,0,0,0,0,0
+julius,NA,RemixedFern,NA,BFS1,3,1,1,0,0,0,0,0,0,0
 Anti,NA,RemixedFern,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
 Svenja,NA,Aleshiro,NA,BFS1,3,-1,1,1,0,0,0,0,0,0
 Svenja,NA,Anti,NA,BFS1,3,1,1,0,0,0,0,0,0,0
-dante,NA,term,NA,BFS1,5,1,1,-1,-1,1,0,0,0,0
+julius,NA,term,NA,BFS1,5,1,1,-1,-1,1,0,0,0,0
 Svenja,NA,term,NA,BFS1,5,1,-1,1,-1,1,0,0,0,0
-Svenja,NA,dante,NA,BFS1,5,1,-1,-1,1,1,0,0,0,0
-dante,NA,Svenja,NA,BFS1,5,1,-1,1,1,0,0,0,0,0
+Svenja,NA,julius,NA,BFS1,5,1,-1,-1,1,1,0,0,0,0
+julius,NA,Svenja,NA,BFS1,5,1,-1,1,1,0,0,0,0,0
 Raphy..,NA,CXASE,NA,BFS2,3,1,-1,1,0,0,0,0,0,0
 mango fv,NA,Raphy..,NA,BFS2,3,1,1,0,0,0,0,0,0,0
 mango fv,NA,CXASE,NA,BFS2,3,1,1,0,0,0,0,0,0,0
@@ -92,7 +92,7 @@ starfi$h,NA,Pixel,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 Cafy,NA,Jaiden,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 LunaZzero,NA,Zander,NA,BFS4,3,-1,1,1,0,0,0,0,0,0
 Aleshiro,NA,starfi$h,NA,BFS4,3,1,1,0,0,0,0,0,0,0
-dante,NA,Yuyu,NA,BFS4,3,1,1,0,0,0,0,0,0,0
+julius,NA,Yuyu,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 Cafy,NA,fisneyyy,NA,BFS4,3,-1,1,1,0,0,0,0,0,0
 starfi$h,NA,Tuna,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 Zander,NA,Pixel,NA,BFS4,3,1,-1,1,0,0,0,0,0,0
@@ -101,13 +101,13 @@ Yuyu,NA,Jaiden,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 starfi$h,NA,Zander,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 fisneyyy,NA,Yuyu,NA,BFS4,3,1,-1,1,0,0,0,0,0,0
 Aleshiro,NA,LunaZzero,NA,BFS4,3,1,1,0,0,0,0,0,0,0
-Cafy,NA,dante,NA,BFS4,3,-1,1,1,0,0,0,0,0,0
-dante,NA,starfi$h,NA,BFS4,3,1,1,0,0,0,0,0,0,0
+Cafy,NA,julius,NA,BFS4,3,-1,1,1,0,0,0,0,0,0
+julius,NA,starfi$h,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 fisneyyy,NA,LunaZzero,NA,BFS4,3,1,1,0,0,0,0,0,0,0
-dante,NA,fisneyyy,NA,BFS4,3,1,1,0,0,0,0,0,0,0
+julius,NA,fisneyyy,NA,BFS4,3,1,1,0,0,0,0,0,0,0
 Aleshiro,NA,Cafy,NA,BFS4,5,1,-1,1,1,0,0,0,0,0
-dante,NA,Cafy,NA,BFS4,5,1,1,1,0,0,0,0,0,0
-Aleshiro,NA,dante,NA,BFS4,5,-1,1,1,1,0,0,0,0,0
+julius,NA,Cafy,NA,BFS4,5,1,1,1,0,0,0,0,0,0
+Aleshiro,NA,julius,NA,BFS4,5,-1,1,1,1,0,0,0,0,0
 Zander,NA,Anti,NA,BFS5,3,1,-1,1,0,0,0,0,0,0
 Different,NA,A-Nash,NA,BFS5,3,1,1,0,0,0,0,0,0,0
 prosper,NA,Zander,NA,BFS5,3,1,1,0,0,0,0,0,0,0
@@ -200,12 +200,12 @@ Bolt,NA,Ryu,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 Glash,NA,Saturn <3,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 Saturn <3,NA,Ryu,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 Glash,NA,Bolt,NA,BFS10,3,1,1,1,0,0,0,0,0,0
-dante,NA,NewSquidbeak,NA,BFS10,3,1,1,1,0,0,0,0,0,0
+julius,NA,NewSquidbeak,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 Cato Drew,NA,Steam64137,NA,BFS10,3,1,-1,1,0,0,0,0,0,0
 Cato Drew,NA,NewSquidbeak,NA,BFS10,3,-1,1,1,0,0,0,0,0,0
-dante,NA,Steam64137,NA,BFS10,3,1,1,-1,0,0,0,0,0,0
+julius,NA,Steam64137,NA,BFS10,3,1,1,-1,0,0,0,0,0,0
 Steam64137,NA,NewSquidbeak,NA,BFS10,3,1,1,1,0,0,0,0,0,0
-dante,NA,Cato Drew,NA,BFS10,3,1,1,1,0,0,0,0,0,0
+julius,NA,Cato Drew,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 Lidl,NA,Fazukega,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 term,NA,mad ferret,NA,BFS10,3,1,1,1,0,0,0,0,0,0
 term,NA,Fazukega,NA,BFS10,3,1,-1,1,0,0,0,0,0,0
@@ -223,10 +223,10 @@ yoshii,NA,Lidl,NA,BFS10,3,1,1,0,0,0,0,0,0,0
 eliasmo,NA,Bolt,NA,BFS10,3,-1,1,1,0,0,0,0,0,0
 term,NA,Glash,NA,BFS10,3,-1,1,1,0,0,0,0,0,0
 yoshii,NA,Leniah,NA,BFS10,3,1,1,0,0,0,0,0,0,0
-dante,NA,Sherbet,NA,BFS10,3,1,1,0,0,0,0,0,0,0
+julius,NA,Sherbet,NA,BFS10,3,1,1,0,0,0,0,0,0,0
 term,NA,eliasmo,NA,BFS10,3,1,-1,1,0,0,0,0,0,0
-yoshii,NA,dante,NA,BFS10,3,1,1,0,0,0,0,0,0,0
-dante,NA,eliasmo,NA,BFS10,5,1,1,1,0,0,0,0,0,0
+yoshii,NA,julius,NA,BFS10,3,1,1,0,0,0,0,0,0,0
+julius,NA,eliasmo,NA,BFS10,5,1,1,1,0,0,0,0,0,0
 yoshii,NA,term,NA,BFS10,5,1,1,1,0,0,0,0,0,0
 Atlas,Chamo,Finazon,term,BFS11,3,1,-1,1,0,0,0,0,0,0
 yoshii,Tacos!,Finazon,term,BFS11,3,1,1,0,0,0,0,0,0,0
@@ -298,8 +298,8 @@ Samba4k,NA,Paper,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 yoshii,NA,Samba4k,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 yoshii,NA,Paper,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 Tuna,NA,Mixed_soup,NA,BFS13,3,1,1,0,0,0,0,0,0,0
-dante,NA,Mixed_soup,NA,BFS13,3,1,1,0,0,0,0,0,0,0
-dante,NA,Tuna,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+julius,NA,Mixed_soup,NA,BFS13,3,1,1,0,0,0,0,0,0,0
+julius,NA,Tuna,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 Raphy..,NA,Bakuma,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 Bakuma,NA,term,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 term,NA,Bakuma,NA,BFS13,3,1,1,0,0,0,0,0,0,0
@@ -316,24 +316,24 @@ Mixed_soup,NA,Zelda1986,NA,BFS13,5,1,1,-1,1,0,0,0,0,0
 Paper,NA,Bakuma,NA,BFS13,5,1,1,-1,-1,1,0,0,0,0
 yoshii,NA,Yuyu,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 Bolt,NA,Samba4k,NA,BFS13,3,1,1,0,0,0,0,0,0,0
-dante,NA,Raphy..,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
+julius,NA,Raphy..,NA,BFS13,3,-1,1,1,0,0,0,0,0,0
 term,NA,Tuna,NA,BFS13,3,1,1,0,0,0,0,0,0,0
 yoshii,NA,Bolt,NA,BFS13,5,1,1,1,0,0,0,0,0,0
-dante,NA,term,NA,BFS13,5,1,1,1,0,0,0,0,0,0
+julius,NA,term,NA,BFS13,5,1,1,1,0,0,0,0,0,0
 Bolt,NA,term,NA,BFS13,5,-1,1,1,1,0,0,0,0,0
-dante,NA,yoshii,NA,BFS13,5,1,-1,-1,1,1,0,0,0,0
+julius,NA,yoshii,NA,BFS13,5,1,-1,-1,1,1,0,0,0,0
 seb,NA,pecan4pi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 kypy,NA,Rocko,NA,BFS14,3,-1,1,1,0,0,0,0,0,0
 kypy,NA,pecan4pi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 seb,NA,Rocko,NA,BFS14,3,-1,1,1,0,0,0,0,0,0
 Rocko,NA,pecan4pi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 seb,NA,kypy,NA,BFS14,3,1,1,0,0,0,0,0,0,0
-dante,NA,meigi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+julius,NA,meigi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 PayUrTaxes,NA,PocketAsparagus,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 PayUrTaxes,NA,meigi,NA,BFS14,3,1,1,0,0,0,0,0,0,0
-dante,NA,PocketAsparagus,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+julius,NA,PocketAsparagus,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 meigi,NA,PocketAsparagus,NA,BFS14,3,-1,1,1,0,0,0,0,0,0
-dante,NA,PayUrTaxes,NA,BFS14,3,1,1,0,0,0,0,0,0,0
+julius,NA,PayUrTaxes,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 nishi,NA,Saturn <3,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 Cato Drew,NA,Yuyu,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 Yuyu,NA,Saturn <3,NA,BFS14,3,1,1,0,0,0,0,0,0,0
@@ -368,9 +368,9 @@ houdini,NA,PayUrTaxes,NA,BFS14,5,-1,1,1,1,0,0,0,0,0
 kypy,NA,nishi,NA,BFS14,5,1,1,1,0,0,0,0,0,0
 santo,NA,Coolbe,NA,BFS14,3,1,1,0,0,0,0,0,0,0
 santo,NA,seb,NA,BFS14,5,1,1,1,0,0,0,0,0,0
-dante,NA,Cato Drew,NA,BFS14,5,1,1,1,0,0,0,0,0,0
+julius,NA,Cato Drew,NA,BFS14,5,1,1,1,0,0,0,0,0,0
 seb,NA,Cato Drew,NA,BFS14,5,1,1,-1,1,0,0,0,0,0
-santo,NA,dante,NA,BFS14,5,1,-1,-1,1,1,0,0,0,0
+santo,NA,julius,NA,BFS14,5,1,-1,-1,1,1,0,0,0,0
 meigi,NA,PocketAsparagus,NA,BFS15,3,1,1,0,0,0,0,0,0,0
 Rocko,NA,meigi,NA,BFS15,3,1,-1,1,0,0,0,0,0,0
 PocketAsparagus,NA,meigi,NA,BFS15,3,1,-1,1,0,0,0,0,0,0
@@ -439,12 +439,12 @@ Rook,NA,wyl_,NA,BFS18,5,-1,1,1,1,0,0,0,0,0
 Ballistic,NA,Bolt,NA,BFS18,5,1,-1,1,1,0,0,0,0,0
 Bolt,NA,wyl_,NA,BFS18,5,1,1,1,0,0,0,0,0,0
 Rook,NA,Ballistic,NA,BFS18,5,-1,1,1,1,0,0,0,0,0
-dante,NA,Grapplinggoon,NA,BFS19,3,1,1,0,0,0,0,0,0,0
+julius,NA,Grapplinggoon,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 Luigia,NA,Lexi,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 Luigia,NA,Grapplinggoon,NA,BFS19,3,1,1,0,0,0,0,0,0,0
-dante,NA,Lexi,NA,BFS19,3,1,1,0,0,0,0,0,0,0
+julius,NA,Lexi,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 Grapplinggon,NA,Lexi,NA,BFS19,3,1,1,0,0,0,0,0,0,0
-dante,NA,Luigia,NA,BFS19,3,1,1,0,0,0,0,0,0,0
+julius,NA,Luigia,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 term,NA,Neon,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 Arc,NA,Yuyu,NA,BFS19,3,-1,1,1,0,0,0,0,0,0
 Arc,NA,Neon,NA,BFS19,3,1,1,0,0,0,0,0,0,0
@@ -462,26 +462,26 @@ PocketAsparagus,NA,Yuyu,NA,BFS19,5,-1,1,1,-1,1,0,0,0,0
 PocketAsparagus,NA,anny,NA,BFS19,5,1,1,1,0,0,0,0,0,0
 Arc,NA,Luigia,NA,BFS19,3,1,1,0,0,0,0,0,0,0
 Candy,NA,wyl_,NA,BFS19,3,-1,1,1,0,0,0,0,0,0
-Arc,NA,dante,NA,BFS19,5,-1,1,1,-1,1,0,0,0,0
+Arc,NA,julius,NA,BFS19,5,-1,1,1,-1,1,0,0,0,0
 term,NA,Candy,NA,BFS19,5,-1,1,1,-1,1,0,0,0,0
-dante,NA,Candy,NA,BFS19,5,1,1,1,0,0,0,0,0,0
+julius,NA,Candy,NA,BFS19,5,1,1,1,0,0,0,0,0,0
 term,NA,Arc,NA,BFS19,5,1,1,1,0,0,0,0,0,0
 Tuna,NA,kamek,NA,BFS20,3,-1,1,1,0,0,0,0,0,0
 term,NA,Quax,NA,BFS20,3,1,1,0,0,0,0,0,0,0
-dante,NA,Tuna,NA,BFS20,3,1,1,0,0,0,0,0,0,0
+julius,NA,Tuna,NA,BFS20,3,1,1,0,0,0,0,0,0,0
 term,NA,Cafy,NA,BFS20,3,1,-1,1,0,0,0,0,0,0
 Cafy,NA,kamek,NA,BFS20,3,1,1,0,0,0,0,0,0,0
 Tuna,NA,Quax,NA,BFS20,3,1,1,0,0,0,0,0,0,0
 Tuna,NA,Cafy,NA,BFS20,3,-1,1,1,0,0,0,0,0,0
-dante,NA,term,NA,BFS20,5,1,-1,1,-1,1,0,0,0,0
+julius,NA,term,NA,BFS20,5,1,-1,1,-1,1,0,0,0,0
 Tuna,NA,term,NA,BFS20,5,1,1,1,0,0,0,0,0,0
-dante,NA,Tuna,NA,BFS20,5,1,1,-1,1,0,0,0,0,0
-dante,NA,julian,NA,BFS21,5,1,-1,1,1,0,0,0,0,0
+julius,NA,Tuna,NA,BFS20,5,1,1,-1,1,0,0,0,0,0
+julius,NA,julian,NA,BFS21,5,1,-1,1,1,0,0,0,0,0
 pierrot,NA,Candy,NA,BFS21,5,1,1,1,0,0,0,0,0,0
 Candy,NA,julian,NA,BFS21,5,1,1,-1,1,0,0,0,0,0
-dante,NA,pierrot,NA,BFS21,5,1,1,1,0,0,0,0,0,0
+julius,NA,pierrot,NA,BFS21,5,1,1,1,0,0,0,0,0,0
 Candy,NA,pierrot,NA,BFS21,5,1,-1,1,-1,1,0,0,0,0
-dante,NA,Candy,NA,BFS21,5,1,1,1,0,0,0,0,0,0
+julius,NA,Candy,NA,BFS21,5,1,1,1,0,0,0,0,0,0
 Paper,NA,PocketAsparagus,NA,BFS22,3,1,1,0,0,0,0,0,0,0
 kamek,NA,Hometuu,NA,BFS22,3,1,1,0,0,0,0,0,0,0
 pierrot,NA,Huge,NA,BFS22,3,1,-1,1,0,0,0,0,0,0
@@ -498,8 +498,8 @@ Lucky,NA,Toaster,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 Tini,NA,Lucky,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 Tini,NA,Toaster,NA,BFS23,3,1,-1,1,0,0,0,0,0,0
 booga,NA,Finazon,NA,BFS23,3,1,1,0,0,0,0,0,0,0
-dante,NA,Finazon,NA,BFS23,3,1,1,0,0,0,0,0,0,0
-dante,NA,booga,NA,BFS23,3,1,1,0,0,0,0,0,0,0
+julius,NA,Finazon,NA,BFS23,3,1,1,0,0,0,0,0,0,0
+julius,NA,booga,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 LKFrano,NA,term,NA,BFS23,3,-1,1,1,0,0,0,0,0,0
 LKFrano,NA,Toki,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 LKFrano,NA,howl,NA,BFS23,3,1,1,0,0,0,0,0,0,0
@@ -519,12 +519,12 @@ Finazon,NA,Nathpro,NA,BFS23,5,1,1,-1,1,0,0,0,0,0
 Toaster,NA,Toki,NA,BFS23,5,1,-1,1,-1,1,0,0,0,0
 Tini,NA,Melon,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 Lucky,NA,Saxx,NA,BFS23,3,1,-1,1,0,0,0,0,0,0
-dante,NA,term,NA,BFS23,3,1,1,0,0,0,0,0,0,0
+julius,NA,term,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 booga,NA,LKFrano,NA,BFS23,3,1,1,0,0,0,0,0,0,0
 Tini,NA,Lucky,NA,BFS23,5,1,1,1,0,0,0,0,0,0
-dante,NA,booga,NA,BFS23,5,1,1,1,0,0,0,0,0,0
+julius,NA,booga,NA,BFS23,5,1,1,1,0,0,0,0,0,0
 booga,NA,Lucky,NA,BFS23,5,1,1,-1,1,0,0,0,0,0
-Tini,NA,dante,NA,BFS23,5,1,1,-1,1,0,0,0,0,0
+Tini,NA,julius,NA,BFS23,5,1,1,-1,1,0,0,0,0,0
 VelocityX9,Utsu,BrieTreespark,juniper,BFS24,3,1,1,0,0,0,0,0,0,0
 Mango,basil,Pixel,KipoWick,BFS24,3,1,1,0,0,0,0,0,0,0
 aurelia,KkelVi,hiro,bruce GAYne,BFS24,3,1,1,0,0,0,0,0,0,0
@@ -572,3 +572,19 @@ Tuna,zoeee,Finazon,term,BFS26,3,1,1,0,0,0,0,0,0,0
 Tini,Bonk,roxymoron,CommaTOSU,BFS26,5,1,1,1,0,0,0,0,0,0
 Tuna,zoeee,roxymoron,CommaTOSU,BFS26,5,1,1,1,0,0,0,0,0,0
 Tini,Bonk,Tuna,zoeee,BFS26,5,1,1,1,0,0,0,0,0,0
+OmNomNom,Pengu,Xemo!,Xero!!,BFS27,3,1,-1,1,0,0,0,0,0,0
+Bonk,Celele,OmNomNom,Pengu,BFS27,3,1,1,0,0,0,0,0,0,0
+TITAN,Paper,Blueblaze,Word,BFS27,3,1,-1,1,0,0,0,0,0,0
+julius,josh,Chips,A Slice,BFS27,3,1,1,0,0,0,0,0,0,0
+Tuna,Sky,hiro,shira,BFS27,3,1,1,0,0,0,0,0,0,0
+Blueblaze,Word,Xemo!,Xero!!,BFS27,3,1,-1,1,0,0,0,0,0,0
+Blueblaze,Word,OmNomNom,Pengu,BFS27,3,1,1,0,0,0,0,0,0,0
+Chips,A Slice,hiro,shira,BFS27,3,1,-1,1,0,0,0,0,0,0
+Bonk,Celele,TITAN,Paper,BFS27,5,-1,1,1,-1,1,0,0,0,0
+julius,josh,Tuna,Sky,BFS27,5,1,-1,1,-1,1,0,0,0,0
+Tuna,Sky,Blueblaze,Word,BFS27,3,1,1,0,0,0,0,0,0,0
+TITAN,Paper,Chips,A Slice,BFS27,3,1,-1,1,0,0,0,0,0,0
+Tuna,Sky,TITAN,Paper,BFS27,3,-1,1,1,0,0,0,0,0,0
+julius,josh,Bonk,Celele,BFS27,5,1,1,1,0,0,0,0,0,0
+Tuna,Sky,Bonk,Celele,BFS27,5,1,1,-1,1,0,0,0,0,0
+julius,josh,Tuna,Sky,BFS27,5,1,1,-1,1,0,0,0,0,0
